@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Brendan's Blog]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://brendanpan.github.io/"/>
+  <updated>2016-01-14T04:13:41.659Z</updated>
+  <id>http://brendanpan.github.io/</id>
+  
+  <author>
+    <name><![CDATA[Brendan Pan]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[基于Hexo + GitHub Blog 的搭建和使用]]></title>
+    <link href="http://brendanpan.github.io/2016/01/13/Setup-blog-by-hexo-github/"/>
+    <id>http://brendanpan.github.io/2016/01/13/Setup-blog-by-hexo-github/</id>
+    <published>2016-01-13T10:51:37.000Z</published>
+    <updated>2016-01-14T04:13:41.659Z</updated>
+    <content type="html"><![CDATA[<ul>
+<li><a href="http://crazymilk.github.io/2015/12/28/GitHub-Pages-Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/" target="_blank" rel="external">GitHub Pages + Hexo搭建博客</a><br>这篇写的非常棒，留存。</li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ul>
+<li><a href="http://crazymilk.github.io/2015/12/28/GitHub-Pages-Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/" target="_blank" rel="externa]]>
+    </summary>
+    
+      <category term="Git" scheme="http://brendanpan.github.io/tags/Git/"/>
+    
+      <category term="Github" scheme="http://brendanpan.github.io/tags/Github/"/>
+    
+      <category term="Hexo" scheme="http://brendanpan.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+</feed>
