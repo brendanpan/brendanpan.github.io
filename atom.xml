@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://brendanpan.github.io/"/>
-  <updated>2016-01-14T07:30:07.735Z</updated>
+  <updated>2016-01-14T08:44:15.623Z</updated>
   <id>http://brendanpan.github.io/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://brendanpan.github.io/2016/01/13/Setup-blog-by-hexo-github/"/>
     <id>http://brendanpan.github.io/2016/01/13/Setup-blog-by-hexo-github/</id>
     <published>2016-01-13T10:51:37.000Z</published>
-    <updated>2016-01-14T07:30:07.735Z</updated>
+    <updated>2016-01-14T08:44:15.623Z</updated>
     <content type="html"><![CDATA[<ul>
 <li><a href="http://crazymilk.github.io/2015/12/28/GitHub-Pages-Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/" target="_blank" rel="external">GitHub Pages + Hexo搭建博客</a><br>这篇写的非常棒，留存。</li>
 </ul>
@@ -34,11 +34,11 @@
 <li><a href="http://crazymilk.github.io/2015/12/28/GitHub-Pages-Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/" target="_blank" rel="externa]]>
     </summary>
     
-      <category term="Git" scheme="http://brendanpan.github.io/tags/Git/"/>
+      <category term="github" scheme="http://brendanpan.github.io/tags/github/"/>
     
-      <category term="Github" scheme="http://brendanpan.github.io/tags/Github/"/>
+      <category term="hexo" scheme="http://brendanpan.github.io/tags/hexo/"/>
     
-      <category term="Hexo" scheme="http://brendanpan.github.io/tags/Hexo/"/>
+      <category term="web" scheme="http://brendanpan.github.io/categories/web/"/>
     
   </entry>
   
